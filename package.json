@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Doncurt/parentBackend/issues"
   },
-  "homepage": "https://github.com/Doncurt/parentBackend#readme"
+  "homepage": "https://github.com/Doncurt/parentBackend#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2"
+  }
 }

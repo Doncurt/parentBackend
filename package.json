@@ -1,0 +1,19 @@
+{
+  "name": "parentbackend",
+  "version": "1.0.0",
+  "description": "Backend api for hamster wheel",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doncurt/parentBackend.git"
+  },
+  "author": "Donovan Adams for hamster wheel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doncurt/parentBackend/issues"
+  },
+  "homepage": "https://github.com/Doncurt/parentBackend#readme"
+}
